@@ -1,7 +1,6 @@
 # Robot Framework - Walkdog
 Some automation tests created using Robot Framework during the course Robot Discover made by Fernando Papito on QAxperience.
 
-Application: 
 ## Prerequisites
 * __Git__ v2.43
 * __Node.js__ v21.6.1
